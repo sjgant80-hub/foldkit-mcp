@@ -1,10 +1,19 @@
-# foldkit-mcp
+# foldkit MCP
 
-MCP stdio server wrapping `@ai-native-solutions/foldkit-sdk`.
+> MCP server for foldkit · framework ISA as Claude tools · exemplar shape for AI-Native Solutions estate
 
 ## Install
-```bash
+
+```
 claude mcp add foldkit -- npx -y @ai-native-solutions/foldkit-mcp
 ```
 
-MIT · AI-Native Solutions
+## Links
+
+- FallMarket listing: https://sjgant80-hub.github.io/fallmarket/listing.html?id=foldkit-mcp
+- Source: https://github.com/sjgant80-hub/foldkit-mcp
+
+
+## License
+
+MIT · Copyright 2026 AI-Native Solutions · https://ai-nativesolutions.com
